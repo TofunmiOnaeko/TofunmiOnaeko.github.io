@@ -1,5 +1,6 @@
 theme: minima
 title: Tof's github website
 header_pages:
+  - About.md
   - mememe.md
   - ok.md
