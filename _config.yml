@@ -1,1 +1,5 @@
-theme: jekyll-theme-minimal
+theme: minima
+title: Tof's github website
+header_pages:
+  - mememe.md
+  - ok.md
